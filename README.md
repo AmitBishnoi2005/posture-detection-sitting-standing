@@ -45,7 +45,6 @@ Design a real-time human posture detection system running on a Jetson Nano (32 G
 posture-detection-sitting-standing/
 │
 ├── SITTING_STANDING.py     # Desktop app — live window with dark blue UI
-├── jetson_stream.py        # Jetson Nano — Flask HTTP stream on port 5000
 ├── requirements.txt        # Python dependencies
 ├── OUTPUT_1.jpeg           # Demo screenshot — Standing
 ├── OUTPUT_2.jpeg           # Demo screenshot — Sitting
