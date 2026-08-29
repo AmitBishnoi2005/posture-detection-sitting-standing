@@ -130,10 +130,10 @@ flask
 
 ## 🎯 Key Learning Outcomes
 
-- ✅ **CO1** — Live camera feed with OpenCV for real-time video streaming on an edge device
-- ✅ **CO2** — Applied and optimized a pretrained ML model (MediaPipe) for human pose estimation
-- ✅ **CO3** — Logic-based classification using geometric landmarks and a multi-rule scoring system
-- ✅ **CO4** — Full AI vision application deployed and tested on an embedded edge device (Jetson Nano)
+- ✅ **CO1** — Live camera feed with OpenCV for real-time video streaming on an edge device.
+- ✅ **CO2** — Applied and optimized a pretrained ML model (MediaPipe) for human pose estimation.
+- ✅ **CO3** — Logic-based classification using geometric landmarks and a multi-rule scoring system.
+- ✅ **CO4** — Full AI vision application deployed and tested on an embedded edge device (Jetson Nano).
 
 ---
 
